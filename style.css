@@ -1,0 +1,25 @@
+@media screen and (max-width: 650px) {
+    #adcnb_btn {
+        display: block;
+        position: fixed;
+        text-decoration: none;
+        z-index: 2147483647;
+        width: 100%;
+        left: 0;
+        bottom: 0;
+        height: 60px;
+        border-top: 1px solid #aeff6f;
+        border-bottom: 1px solid #4fa510;
+        text-shadow: 0 1px #4fa510;
+        text-align: center;
+        color: #fff;
+        font-weight: 600;
+        font-size: 120%;
+        overflow: hidden;
+        padding-right: 20px;
+        background: #81d742;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
